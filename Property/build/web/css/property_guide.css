@@ -1,0 +1,168 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* All Rights Are Reserved For Shri Kundan Group Property Dealing Company*/
+
+.style1 {
+	font-size: 14px;
+	font-family: "Franklin Gothic Book";
+	color: #333333;
+}
+.style2 {
+	font-size: 14px;
+	font-family: "Franklin Gothic Book";
+	color: #FFFFFF;
+}
+.menu a
+{
+    font-size: 14px;
+	font-family: "Franklin Gothic Book";
+	color: #FFFFFF;
+	text-decoration:none
+}
+.menu a:hover
+{
+color: #5C4647}
+.style3 {
+	font-size: 12px;
+	font-family: "Franklin Gothic Book";
+	color: #333333;
+}
+.style4 {
+	color: #283855;
+	font-weight: bold;
+}
+.style6 {font-size: 16px; font-family: Geneva, Arial, Helvetica, sans-serif; color: #333333; }
+.style31 {font-family: "Franklin Gothic Book"; font-weight: bold; color: #186E93; font-size: 14px; }
+.style53 {	font-size: 12px;
+	font-family: "Franklin Gothic Book";
+	color: #FFFFFF;
+}
+.style8 {color: #FFFFFF; font-size: 14px; font-family: "Franklin Gothic Book"; }
+.style9 {color: #FFFFFF}
+.style10 {font-family: "Franklin Gothic Book"; font-size: 14px;}
+.style11 {font-size: 16px; color: #FFFFFF; }
+body,td,th {
+	font-family: Franklin Gothic Book;
+}
+.style12 {
+	font-size: 14px;
+	color: #333333;
+}
+.view a
+{
+    font-size: 14px;
+	color: #333333;
+	text-decoration:none
+}
+.view a:hover
+{
+color:#F06836
+}
+.style57 {font-size: 14px; color: #000000; }
+.style59 {color: #FFFFFF; font-size: 16px; font-family: "Franklin Gothic Book"; }
+.foot a {
+	font-size: 14px;
+	font-family: "Century Schoolbook";
+	color: #fff;
+	text-decoration:none;
+}
+.foot a:hover {
+	text-decoration:underline;
+}
+select
+{
+	
+	width:auto;
+	padding:10px 5px;
+	border:solid 1px #eee;
+	
+}
+.style26 {
+font-family: "Franklin Gothic Book";
+
+color: #F99224;
+}
+.style33
+{
+font-size: 14px;
+color: #454545;
+font-family: "Franklin Gothic Book";}
+.list_carousel {
+				margin: 0 0 0 0;
+				width: 650px;
+				border:none;
+				background:none;
+				
+				
+			}
+			.list_carousel ul {
+							margin: 0;
+							padding: 0;
+							list-style: none;
+							display: block;
+							background:none
+						}
+			.list_carousel li {
+							
+							width: 114px;
+							
+							padding: 0;
+							margin: 10px;
+							display: block;
+							float: left;
+							background:none;
+-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+	
+
+						}
+
+.list_carousel li:hover
+{
+    height:150px;
+}
+.list_carousel li img:hover
+{
+-webkit-transition: all 1s ease;
+	-moz-transition: all 1s ease;
+	-o-transition: all 1s ease;
+	-ms-transition: all 1s ease;
+	transition: all 1s ease;
+margin-top:-30px;margin-left:-25px;
+     width:150px;
+     height:150px;
+     z-index:10000000000;
+}
+
+.image_carousel {
+	padding: 15px 0 15px 40px;
+width: 500px;
+}
+.image_carousel img {
+	border: 1px solid #ccc;
+	background-color: white;
+	padding: 9px;
+	margin: 7px;
+	display: block;
+	float: left;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}
+
+.img img
+{
+border:solid 1px #eee;
+-webkit-box-shadow:0 0 10px #F06836;
+-moz-box-shadow:0 0 10px #F06836;
+padding:5px}
+.img img:hover
+{
+border:solid 1px #F06836;
+-webkit-box-shadow:0 0 10px #eee;
+-moz-box-shadow:0 0 10px #eee}

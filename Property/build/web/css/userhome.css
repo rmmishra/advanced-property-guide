@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#profile{
+    height: 20%;
+    padding: 8px;
+    background-color: brown;
+}
+
+#pic{
+    height:140px;
+    width:120px;
+    float: left;
+    font-weight: bold;
+}
+
+
+#logout{
+    float: right;
+    height: 60px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+#welcome{
+    font-size: 40px;
+    font-weight: bold;
+    width: 800px;
+    height: 50px;
+    float: right;
+    border-radius: 5px;  
+    color:sandybrown;
+}
